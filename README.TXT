@@ -1,3 +1,5 @@
+
+
 Bouncing Balls - a demonstration of graphical output on a Canvas class.
 
 This project is part of the material for the book
@@ -17,3 +19,5 @@ class (open the editor and switch to "documentation" view).
 
 Other classes can be changed or added. The book contains suggestions 
 for various exercises.
+
+

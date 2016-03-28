@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=xMax\ yMax\ drawingCanvas\ offset
+comment0.target=BoxBall(int,\ int,\ Canvas,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ BoxBall\r\n\ Random\ structure\ is\ used\ to\ create\ the\ balls\ woth\ random\ size,\ color\ and\ speed.\ \r\n
+comment1.params=
+comment1.target=void\ erase()
+comment1.text=\r\n\ Method\ to\ erase\ ball\ at\ its\ current\ position.\r\n
+comment2.params=
+comment2.target=void\ draw()
+comment2.text=\r\n\ Method\ to\ draw\ ball\ at\ its\ current\ position\ onto\ the\ canvas.\r\n
+comment3.params=
+comment3.target=void\ move()
+comment3.text=\r\n\ Method\ for\ moving\ the\ ball\ so\ its\ directional\ speed\ changes\ when\ it\ hits\ a\ boundary.\ \r\n
+comment4.params=
+comment4.target=int\ getXPosition()
+comment4.text=\r\n\ Mthod\ that\ returns\ the\ horizontal\ position\ of\ the\ ball\r\n
+comment5.params=
+comment5.target=int\ getyPosition()
+comment5.text=\r\n\ Method\ that\ returns\ the\ vertical\ position\ of\ the\ ball\r\n
+numComments=6

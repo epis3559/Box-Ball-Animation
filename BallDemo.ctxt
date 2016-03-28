@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BallDemo()
+comment0.text=\r\n\ Create\ a\ BallDemo\ object.\ Creates\ a\ fresh\ canvas\ and\ makes\ it\ visible.\r\n
+comment1.params=
+comment1.target=void\ bounce()
+comment1.text=\r\n\ Simulate\ bouncing\ balls\r\n
+comment2.params=numberOfBalls\ offset
+comment2.target=void\ boxBounce(int,\ int)
+comment2.text=\r\n\ Method\ boxBounce\ is\ creatd\ and\ responsible\ for\ drawing\ four\ boundaries\ within\ the\ canvas\ so\ that\ BoxBall\ objects\ \r\n\ can\ bounce\ only\ inside\ the\ boundaries.\r\n\ Bouncing\ is\ controlled\ by\ a\ timer.\r\n\ @param\ numberOfBalls\ to\ specify\ how\ many\ balls\ are\ in\ the\ box.\r\n\ @param\ offset\ value\ to\ set\ the\ boundaries\ of\ the\ box\r\n
+numComments=3
